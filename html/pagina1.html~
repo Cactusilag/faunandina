@@ -1,0 +1,38 @@
+<!DOCTYPE html> 
+ 
+<html> 
+
+<head>
+<title>Fauna Andina</title> 
+<meta charset='utf-8'>
+<link rel="stylesheet" type="text/css" href="../css/estilos.css">
+<title>Cóndor</title> 
+</head>
+
+<body> 
+
+
+<center><h1 style ='text-aling:center;color:white;'> Cóndor </h1></center>
+
+
+<center><img src='../figuras/condor.jpeg' ><figcaption style ='text-align:center;color:yellow;'>Vultus Gryphus</figcaption></center>
+
+
+
+<p>
+<h3> Distribución </h3>
+Cóndor andino, Cóndor de los Andes, Cóndor, Buitre. El Cóndor habita en las más altas montañas andinas. ... Habita en los Andes y es la mayor de las aves voladoras.
+
+</p>
+<p>
+
+
+<h3> Biología </h3>
+El cóndor andino es un ave enorme que se encuentra entre las más grandes del mundo capaces de volar. Dado su gran peso (hasta 15 kilogramos), incluso su ingente envergadura de alas (3 metros) necesita algo de ayuda para mantenerle en el aire. Por ello, estas aves prefieren vivir en zonas ventosas, donde pueden planear sobre las corrientes de aire sin gran esfuerzo. Los cóndores andinos viven en zonas montañosas, como su nombre sugiere, pero también cerca de las costas, donde abundan las brisas marinas, e incluso en desiertos con fuertes corrientes térmicas de aire.
+
+
+</p>
+
+</body> 
+
+</html>

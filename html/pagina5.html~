@@ -1,0 +1,30 @@
+<!DOCTYPE html> 
+ 
+<html> 
+
+<head>
+<title>Fauna Andina</title> 
+<meta charset='utf-8'>
+<link rel="stylesheet" type="text/css" href="../css/estilos.css">
+<title>Vicuña</title> 
+</head>
+
+<body> 
+
+
+<center><h1 style ='text-aling:center;color:white;'> Vicuña </h1></center>
+
+
+<center><img src='../figuras/vicuña.jpeg' ><figcaption style ='text-align:center;color:yellow;'>Vicugna vicugna</figcaption></center>
+
+
+
+
+<p>
+La vicuña se alimenta casi exclusivamente de pasto, prefiriendo las zonas ricas en agua. Prefieren gramíneas cortas y herbáceas y algunas plantas suculentas; raramente comen pastos duros, aunque sí líquenes.
+</p>
+
+
+</body> 
+
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html> 
+ 
+<html> 
+
+<head>
+<title>Fauna Andina</title> 
+<meta charset='utf-8'>
+<link rel="stylesheet" type="text/css" href="../css/estilos.css">
+<title>Llama</title> 
+</head>
+
+<body bgcolor="#42f4b3"> 
+
+
+<center><h1 style ='text-aling:center;color:white;'> Llama  </h1></center>
+
+
+<center><img src='../figuras/condor.jpeg' ><figcaption style ='text-align:center;color:yellow;'> Lama Glama </figcaption></center>
+
+<p>
+
+La llama es el pariente sudamericano del camello, aunque no tiene joroba. Es un animal muy fuerte que fue domesticado por los habitantes de los Andes. Sus parientes salvajes son los guanacos y las vicuñas. ... Las llamas pastan en la hierba y, al igual que las vacas, regurgitan la comida y la rumian.
+
+</p>
+
+</body> 
+
+</html>

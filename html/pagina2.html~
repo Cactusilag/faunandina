@@ -1,0 +1,32 @@
+
+<!DOCTYPE html> 
+ 
+<html> 
+
+<head>
+<title> Fauna Andina</title> 
+<meta charset='utf-8'>
+<link rel="stylesheet" type="text/css" href="../css/estilos.css">
+<title>Vizcacha</title> 
+</head>
+
+<body>
+
+
+<center><h1 style ='text-aling:center;color:white;'> Vizcacha </h1></center>
+
+
+<center><img src='../figuras/condor.jpeg' ><figcaption style ='text-align:center;color:yellow;'>Lagidium Viscacia</figcaption></center>
+
+<h3> Distribución </h3>
+<p> 
+La vizcacha peruana también conocida como Lagidium viscacia vizcacha de la sierra, vizcacha montanera, o chinchillón es una especie de roedor histricomorfo de la familia Chinchillidae. Su aspecto es similar al de los conejos. Tiene un grueso y suave pelaje de color amarillo y gris. Su cola es dura y áspera. Tiene orejas largas cubiertas de pelo, bordeadas con un flequillo de pelaje blanco. Tienen 4 patas y pesan hasta 8 kilos.
+</p>
+<h3> Bioligía </h3>
+<p>
+Parecido al conejo, la vizcacha es un roedor sudamericano emparentado con la chinchilla. Es pequeño, puede alcanzar los 8 kg, y su pelaje abundante resulta muy suave al tacto. Su cabeza es grande y su hocico prominente, pero chato en la parte delantera. Sus bigotes son largos, mientras que sus orejas son diminutas. Por lo general, es de color gris en el lomo y blanco en el vientre, pero existen otras variantes según la zona en la que habiten.
+</p>
+<h3> Estatus de conservación </h3>
+</body> 
+
+</html>
